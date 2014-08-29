@@ -49,7 +49,8 @@ For CSS: use the [W3C CSS Validator] to validate any CSS files that your code wi
  
 1. [Failing HTML Validation], the raw HTML is [here][Failing HTML].
 1. [Passing HTML Validation], the raw HTML is [here][Passing HTML].
-1. [Failing CSS Validation], the raw HTML is [here][Failing CSS]. 
+1. [Failing CSS Validation], the raw CSS is [here][Failing CSS].
+1. [Passing CSS Validation], the raw CSS is [here][Passing CSS].
 
 
 <!-- REFERENCES -->
@@ -63,4 +64,6 @@ For CSS: use the [W3C CSS Validator] to validate any CSS files that your code wi
 [Passing HTML Validation]: http://validator.w3.org/check?uri=http%3A%2F%2Fandybry.github.io%2Faccessibility-guidelines%2Fexamples%2FW3C%2520standards%2520should%2520be%2520met%2520by%2520HTML%2520and%2520CSS%2Fpassing.html&charset=%28detect+automatically%29&doctype=Inline&group=0
 [Passing HTML]: https://raw.githubusercontent.com/andybry/accessibility-guidelines/gh-pages/examples/W3C%20standards%20should%20be%20met%20by%20HTML%20and%20CSS/passing.html
 [Failing CSS Validation]: http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fandybry.github.io%2Faccessibility-guidelines%2Fexamples%2FW3C%2520standards%2520should%2520be%2520met%2520by%2520HTML%2520and%2520CSS%2Ffailing.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en
-[Failing CSS]: http://andybry.github.io/accessibility-guidelines/examples/W3C%20standards%20should%20be%20met%20by%20HTML%20and%20CSS/failing.css  
+[Failing CSS]: http://andybry.github.io/accessibility-guidelines/examples/W3C%20standards%20should%20be%20met%20by%20HTML%20and%20CSS/failing.css
+[Passing CSS Validation]: http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fandybry.github.io%2Faccessibility-guidelines%2Fexamples%2FW3C%2520standards%2520should%2520be%2520met%2520by%2520HTML%2520and%2520CSS%2Fpassing.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en
+[Passing CSS]: http://andybry.github.io/accessibility-guidelines/examples/W3C%20standards%20should%20be%20met%20by%20HTML%20and%20CSS/passing.css

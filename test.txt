@@ -1,0 +1,2 @@
+http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fandybry.github.io%2Faccessibility-guidelines%2Fexamples%2FW3C%2520standards%2520should%2520be%2520met%2520by%2520HTML%2520and%2520CSS%2Ffailing.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en
+http://jigsaw.w3.org/css-validator/validator?uri=http%253A%252F%252Fandybry.github.io%252Faccessibility-guidelines%252Fexamples%252FW3C%252520standards%252520should%252520be%252520met%252520by%252520HTML%252520and%252520CSS%252Ffailing.css&profile=css3&usermedium=all&warning=1&vextwarning=%E2%8C%A9=en
