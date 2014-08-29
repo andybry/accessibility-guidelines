@@ -59,6 +59,22 @@ The HTML and CSS validators both give detailed error messages with explanations 
 this advice should be enough to fix all problems.
 
 
+
+### 2. Pages should not contain broken links
+
+#### What:
+
+All links should go to a valid location, including fragment links (URLs ending with a # link).
+
+
+#### Why: 
+
+Broken links make the site very frustrating to navigate: if you use are using a screen reader then going to a 404 page 
+means that you lose your place on the current page. Going back in the browser will often take you back to the 
+beginning of the page you came from, at the very least to the last fragment. Broken fragments cause exactly the same
+problems because they take you 
+
+
 <!-- REFERENCES -->
 <!-- ======================================================================== -->
 <!--                            VALIDATION                                    -->
