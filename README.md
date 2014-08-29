@@ -45,7 +45,7 @@ For CSS: use the [W3C CSS Validator] to validate any CSS files that your code wi
  warnings as possible.
  
  
- ##### Examples: 
+#### Examples: 
  
 1. [Failing HTML Validation], the raw HTML is [here][Failing HTML].
 1. [Passing HTML Validation], the raw HTML is [here][Passing HTML].
