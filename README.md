@@ -53,6 +53,12 @@ For CSS: use the [W3C CSS Validator] to validate any CSS files that your code wi
 1. [Passing CSS Validation], the raw CSS is [here][Passing CSS].
 
 
+#### How:
+
+The HTML and CSS validators both give detailed error messages with explanations of how to fix the problems. Following
+this advice should be enough to fix all problems.
+
+
 <!-- REFERENCES -->
 <!-- ======================================================================== -->
 <!--                            VALIDATION                                    -->
