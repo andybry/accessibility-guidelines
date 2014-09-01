@@ -1,2 +1,0 @@
-https://raw.githubusercontent.com/andybry/accessibility-guidelines/examples/Pages%20should%20not%20contain%20broken%20links/broken_fragment.html
-https://raw.githubusercontent.com/andybry/accessibility-guidelines/gh-pages/examples/Pages%20should%20not%20contain%20broken%20links/broken_fragment.html

@@ -89,6 +89,11 @@ types to avoid are 404 and broken URI fragments. Any 405 codes (method not allow
 1. [Working Link], the raw HTML is [here][Working Link HTML]
 
 
+#### How:
+
+Any broken links and broken fragment links should be updated to point at links that work, or removed from the page.
+
+
 <!-- REFERENCES -->
 <!-- ======================================================================== -->
 <!--                            VALIDATION                                    -->
