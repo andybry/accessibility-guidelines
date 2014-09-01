@@ -72,7 +72,18 @@ All links should go to a valid location, including fragment links (URLs ending w
 Broken links make the site very frustrating to navigate: if you use are using a screen reader then going to a 404 page 
 means that you lose your place on the current page. Going back in the browser will often take you back to the 
 beginning of the page you came from, at the very least to the last fragment. Broken fragments cause exactly the same
-problems because they take you 
+problems because they take you back to the beginning of the page.
+
+
+#### Check:
+
+Use the [W3C Link Checker]. This will list details about a variety of issues with links on the pages. The two issue
+types to avoid are 404 and broken URI fragments. Any 405 codes (method not allowed) need to be checked manually.
+ 
+
+#### Examples:
+
+1. [Broken Fragment], the raw HTML is [here][Broken Fragment HTML]
 
 
 <!-- REFERENCES -->
@@ -89,3 +100,8 @@ problems because they take you
 [Failing CSS]: http://andybry.github.io/accessibility-guidelines/examples/W3C%20standards%20should%20be%20met%20by%20HTML%20and%20CSS/failing.css
 [Passing CSS Validation]: http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fandybry.github.io%2Faccessibility-guidelines%2Fexamples%2FW3C%2520standards%2520should%2520be%2520met%2520by%2520HTML%2520and%2520CSS%2Fpassing.css&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en
 [Passing CSS]: http://andybry.github.io/accessibility-guidelines/examples/W3C%20standards%20should%20be%20met%20by%20HTML%20and%20CSS/passing.css
+
+<!-- ======================================================================== -->
+<!--                            BROKEN LINKS                                  -->
+<!-- ======================================================================== -->
+[W3C Link Checker]: http://validator.w3.org/checklink
