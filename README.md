@@ -84,6 +84,9 @@ types to avoid are 404 and broken URI fragments. Any 405 codes (method not allow
 #### Examples:
 
 1. [Broken Fragment], the raw HTML is [here][Broken Fragment HTML]
+1. [Existant Fragment], the raw HTML is [here][Existant Fragment]
+1. [Broken Link], the raw HTML is [here][Broken Link HTML]
+1. [Working Link], the raw HTML is [here][Working Link HTML]
 
 
 <!-- REFERENCES -->
@@ -105,3 +108,13 @@ types to avoid are 404 and broken URI fragments. Any 405 codes (method not allow
 <!--                            BROKEN LINKS                                  -->
 <!-- ======================================================================== -->
 [W3C Link Checker]: http://validator.w3.org/checklink
+[Broken Fragment]: http://validator.w3.org/checklink?uri=http%3A%2F%2Fwww.arbryant101.com%2Faccessibility-guidelines%2Fexamples%2FPages%2520should%2520not%2520contain%2520broken%2520links%2Fbroken_fragment.html&hide_type=all&depth=&check=Check
+[Broken Fragment HTML]: http://www.arbryant101.com/accessibility-guidelines/examples/Pages%20should%20not%20contain%20broken%20links/broken_fragment.html
+[Existant Fragment]: http://validator.w3.org/checklink?uri=http%3A%2F%2Fwww.arbryant101.com%2Faccessibility-guidelines%2Fexamples%2FPages%2520should%2520not%2520contain%2520broken%2520links%2Fexistant_fragment.html&hide_type=all&depth=&check=Check 
+[Existant Fragment HTML]: http://www.arbryant101.com/accessibility-guidelines/examples/Pages%20should%20not%20contain%20broken%20links/existant_fragment.html
+[Broken Link]: http://validator.w3.org/checklink?uri=http%3A%2F%2Fwww.arbryant101.com%2Faccessibility-guidelines%2Fexamples%2FPages%2520should%2520not%2520contain%2520broken%2520links%2Fbroken_link.html&hide_type=all&depth=&check=Check
+[Broken Link HTML]: http://www.arbryant101.com/accessibility-guidelines/examples/Pages%20should%20not%20contain%20broken%20links/broken_link.html
+[Working Link]: http://validator.w3.org/checklink?uri=http%3A%2F%2Fwww.arbryant101.com%2Faccessibility-guidelines%2Fexamples%2FPages%2520should%2520not%2520contain%2520broken%2520links%2Fworking_link.html&hide_type=all&depth=&check=Check 
+[Working Link HTML]: http://www.arbryant101.com/accessibility-guidelines/examples/Pages%20should%20not%20contain%20broken%20links/working_link.html 
+ 
+
